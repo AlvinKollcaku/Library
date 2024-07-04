@@ -1,10 +1,10 @@
-# Library Management System
+# Library Website
 
 This project is a library management system implemented in PHP, designed to handle various user roles: Admin, Manager, and Librarian.
 
 - **Admin**: Can add, modify books and book categories, and manage book requests from users.
-- **Manager**: Similar privileges to Admin, with additional administrative functions.
 - **Librarian**: Manages book requests from users.
+- **User** : Can request to lend books.
 
 ## Database Entities
 
